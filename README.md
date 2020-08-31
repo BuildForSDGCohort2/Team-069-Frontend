@@ -1,5 +1,7 @@
 # Expense Tracker
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/358b25cd3d754deda2ff2a2ada0579da)](https://app.codacy.com/gh/BuildForSDGCohort2/Team-069-Group-A-Frontend?utm_source=github.com&utm_medium=referral&utm_content=BuildForSDGCohort2/Team-069-Group-A-Frontend&utm_campaign=Badge_Grade_Dashboard)
+
 ## Overview
 
 Daily Expense Tracker system designed to track your daily expenses, your movements of money are recorded by date, you can review the reports daily, weekly, monthly or yearly.
